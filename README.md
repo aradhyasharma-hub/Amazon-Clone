@@ -28,18 +28,7 @@ A responsive front-end e-commerce website developed using HTML, CSS, and JavaScr
 
 ---
 
-## 📁 Project Structure
-
-```
-├── index.html
-├── style.css
-├── script.js
-└── images/
-```
-
----
-
-## 💻 Getting Started
+# 💻 Getting Started
 
 1. Clone the repository
 
